@@ -4,4 +4,3 @@ Current Weather: Displays the current temperature, humidity, and wind speed.
 
 City Search: The user can input the name of a city to get its weather details.
 
-Error Handling: Manages cases where a city is not found or the API key is invalid.
